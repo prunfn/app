@@ -1,0 +1,10 @@
+[
+
+    {
+        "resource":"/api.admin/v1/users/username/{username}",
+        "count":100,
+        "grade":1,
+        "limitApp":"default"
+    }
+
+]
