@@ -1,0 +1,14 @@
+[
+    {
+		"resource": "ReactiveCompositeDiscoveryClient_youlai-auth",
+		"resourceMode": 0,
+		"count": 10,
+		"grade": 1
+	},
+	{
+		"resource": "ReactiveCompositeDiscoveryClient_youlai-admin",
+		"resourceMode": 0,
+		"count": 5,
+		"grade": 1
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"resource": "GET:http://youlai-admin/api.admin/v1/users/username/{username}",
+		"grade": 2,
+		"count": 1,
+		"timeWindow": 5
+	}
+]
