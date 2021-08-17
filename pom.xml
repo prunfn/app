@@ -12,6 +12,7 @@
     <modules>
         <module>app-ims</module>
         <module>app-common</module>
+        <module>app-function</module>
     </modules>
 
     <parent>
